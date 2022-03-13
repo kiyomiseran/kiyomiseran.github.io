@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Myself</title>
+    <url>/2022/03/13/myself/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Welcome-to-清巳星嵐の小窝"><a href="#Welcome-to-清巳星嵐の小窝" class="headerlink" title="Welcome to 清巳星嵐の小窝!"></a>Welcome to 清巳星嵐の小窝!</h2><span id="more"></span>
+
+<h3 id="我还在哪？"><a href="#我还在哪？" class="headerlink" title="我还在哪？"></a>我还在哪？</h3><p>QQ空间: <a href="https://user.qzone.qq.com/3561918701">QQ空间</a></p>
+<p>bilibili: <a href="https://space.bilibili.com/543865312">bilibili</a></p>
+<p>GitHub: <a href="https://github.com/kiyomiseran">github</a></p>
+<p>WeChat: kiyomiseran0929</p>
+<p>QQ: 3561918701</p>
+<h3 id="我的爱好"><a href="#我的爱好" class="headerlink" title="我的爱好"></a>我的爱好</h3><p>画画<br>编程<br>打游戏<br>做视频</p>
+<p>幻想</p>
+]]></content>
+      <categories>
+        <category>我</category>
+      </categories>
+      <tags>
+        <tag>没用的自我介绍</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公告--1</title>
+    <url>/2022/03/13/%E5%85%AC%E5%91%8A-1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h1><p>也可以不看</p>
+<span id="more"></span>
+
+<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><h3 id="更新and完善"><a href="#更新and完善" class="headerlink" title="更新and完善"></a>更新and完善</h3><p>将看板娘删除——解决移动端浏览本站时看板娘过大</p>
+<p>加入网易云听歌系统</p>
+<p>更改鼠标点击特效</p>
+<p>加入评论系统——无需登录（评论框的邮箱、网站选填）</p>
+<h3 id="然后"><a href="#然后" class="headerlink" title="然后"></a>然后</h3><p>本站有微信打赏（疯狂暗示）</p>
+<p>将来或许会加入更多有趣的内容</p>
+<h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>感谢你能够点进这个博客~~</p>
+]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
+      <tags>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/03/12/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,34 +58,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>myself</title>
-    <url>/2022/03/13/myself/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Welcome-to-清巳星嵐の小窝"><a href="#Welcome-to-清巳星嵐の小窝" class="headerlink" title="Welcome to 清巳星嵐の小窝!"></a>Welcome to 清巳星嵐の小窝!</h2><span id="more"></span>
-
-<h3 id="我还在哪？"><a href="#我还在哪？" class="headerlink" title="我还在哪？"></a>我还在哪？</h3><p>QQ空间: <a href="https://user.qzone.qq.com/3561918701">QQ空间</a></p>
-<p>bilibili: <a href="https://space.bilibili.com/543865312">bilibili</a></p>
-<p>GitHub: <a href="https://github.com/kiyomiseran">github</a></p>
-<p>WeChat: kiyomiseran0929</p>
-<p>QQ: 3561918701</p>
-<h3 id="我的爱好"><a href="#我的爱好" class="headerlink" title="我的爱好"></a>我的爱好</h3><p>画画<br>编程<br>打游戏<br>做视频</p>
-<p>幻想</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>公告--1</title>
-    <url>/2022/03/13/%E5%85%AC%E5%91%8A-1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h1><span id="more"></span>
-
-<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><h3 id="更新and完善"><a href="#更新and完善" class="headerlink" title="更新and完善"></a>更新and完善</h3><p>将看板娘删除——解决移动端浏览本站时看板娘过大</p>
-<p>加入网易云听歌系统</p>
-<p>更改鼠标点击特效</p>
-<p>加入评论系统——无需登录（评论框的邮箱、网站选填）</p>
-<h3 id="然后"><a href="#然后" class="headerlink" title="然后"></a>然后</h3><p>本站有微信打赏（疯狂暗示）</p>
-<p>将来或许会加入更多有趣的内容</p>
-<h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>感谢你能够点进这个博客~~</p>
 ]]></content>
   </entry>
 </search>

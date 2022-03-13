@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-13T07:37:27.131Z</updated>
+  <updated>2022-03-13T14:49:50.774Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,17 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>myself</title>
+    <title>Myself</title>
     <link href="http://example.com/2022/03/13/myself/"/>
     <id>http://example.com/2022/03/13/myself/</id>
     <published>2022-03-13T07:35:38.000Z</published>
-    <updated>2022-03-13T07:37:27.131Z</updated>
+    <updated>2022-03-13T14:49:50.774Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Welcome-to-清巳星嵐の小窝&quot;&gt;&lt;a href=&quot;#Welcome-to-清巳星嵐の小窝&quot; class=&quot;headerlink&quot; title=&quot;Welcome to 清巳星嵐の小窝!&quot;&gt;&lt;/a&gt;Welcome to 清巳星嵐の小窝!&lt;/h2&gt;</summary>
     
     
     
+    <category term="我" scheme="http://example.com/categories/%E6%88%91/"/>
+    
+    
+    <category term="没用的自我介绍" scheme="http://example.com/tags/%E6%B2%A1%E7%94%A8%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
@@ -36,13 +40,17 @@
     <link href="http://example.com/2022/03/13/%E5%85%AC%E5%91%8A-1/"/>
     <id>http://example.com/2022/03/13/%E5%85%AC%E5%91%8A-1/</id>
     <published>2022-03-13T06:22:54.000Z</published>
-    <updated>2022-03-13T07:50:55.215Z</updated>
+    <updated>2022-03-13T15:13:25.344Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;公告&quot;&gt;&lt;a href=&quot;#公告&quot; class=&quot;headerlink&quot; title=&quot;公告&quot;&gt;&lt;/a&gt;公告&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;公告&quot;&gt;&lt;a href=&quot;#公告&quot; class=&quot;headerlink&quot; title=&quot;公告&quot;&gt;&lt;/a&gt;公告&lt;/h1&gt;&lt;p&gt;也可以不看&lt;/p&gt;</summary>
     
     
     
+    <category term="公告" scheme="http://example.com/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="公告" scheme="http://example.com/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
