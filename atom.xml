@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-13T06:27:05.821Z</updated>
+  <updated>2022-03-13T07:37:27.131Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myself</title>
+    <link href="http://example.com/2022/03/13/myself/"/>
+    <id>http://example.com/2022/03/13/myself/</id>
+    <published>2022-03-13T07:35:38.000Z</published>
+    <updated>2022-03-13T07:37:27.131Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Welcome-to-清巳星嵐の小窝&quot;&gt;&lt;a href=&quot;#Welcome-to-清巳星嵐の小窝&quot; class=&quot;headerlink&quot; title=&quot;Welcome to 清巳星嵐の小窝!&quot;&gt;&lt;/a&gt;Welcome to 清巳星嵐の小窝!&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>公告--1</title>
