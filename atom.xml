@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-13T14:49:50.774Z</updated>
+  <updated>2022-03-20T12:21:25.240Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>画师推荐</title>
+    <link href="http://example.com/2022/03/20/sbht/"/>
+    <id>http://example.com/2022/03/20/sbht/</id>
+    <published>2022-03-20T11:11:45.000Z</published>
+    <updated>2022-03-20T12:21:25.240Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;p&gt;画师-四步海棠&lt;br&gt;WeChat：fwq15679095217&lt;br&gt;&lt;a href=&quot;https://www.mihuashi.com/profiles/17067?role=painter&quot;&gt;他的空间(跳转)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;作品展示&quot;&gt;&lt;a href=&quot;#作品展示&quot; class=&quot;headerlink&quot; title=&quot;作品展示&quot;&gt;&lt;/a&gt;作品展示&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
   
   <entry>
     <title>Myself</title>
